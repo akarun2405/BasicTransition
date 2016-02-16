@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-b312111e3779562c0a317b10af02e249b0064ef8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-b1d67a98475f658666da00cb55d0673a415c8ed1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-fc3464735c455a783ffed0bf6a28fcffba412f1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-1989e29ee497670e0d138a4e71387c1af537617d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-7390b7b2fb6208e44e668e90d27ff7a399256cd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-75fcbd656031194ed216d2acf6ab9cde0db3d5bb.jar" />
+    </item>
+
+</items>
